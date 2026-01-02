@@ -1,1 +1,5 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jeziellago)](https://git.io/streak-stats)
+## Hi there, I'm Jeziel! 👋
+
+### I love turning complex problems into simple, reusable libraries.
+
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/jeziellago/)
